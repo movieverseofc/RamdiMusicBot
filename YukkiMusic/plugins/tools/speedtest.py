@@ -21,7 +21,6 @@ def testspeed(m):
         test.download()
         m = m.edit("🙄 ᴄʜᴇᴄᴋɪɴɢ ᴜᴩʟᴏᴀᴅ sᴩᴇᴇᴅ...")
         test.upload()
-        test.results.share()
         result = test.results.dict()
         m = m.edit("😴 ᴜᴩʟᴏᴀᴅɪɴɢ sᴩᴇᴇᴅᴛᴇsᴛ ʀᴇsᴜʟᴛs...")
         path = wget.download(result["share"])
