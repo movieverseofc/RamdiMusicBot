@@ -1,13 +1,13 @@
 {
-    "name": "Ramdi Music Bot",
+    "name": "Neeraj Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/1948fc951f0c3d5a804ed.jpg",
+    "logo": "https://telegra.ph/file/d57173058acdf49bcde49.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Ramdi",
-    "RamdiMusicBot",
+    "Neeraj",
+    "NeerajMusicBot",
     "telegram-bot",
     "pyrogram"
     ],
@@ -40,7 +40,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ʀᴀᴍᴅɪ ᴍᴜsɪᴄ ʙᴏᴛ",
+        "value": "Neeraj Music Bot",
         "required": true
       },
       "OWNER_ID": {
