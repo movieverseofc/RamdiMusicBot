@@ -15,7 +15,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/DevilsHeavenMF",
+                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/itsNeerja",
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
@@ -42,7 +42,7 @@ def stream_markup(_, videoid):
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
             ),
             InlineKeyboardButton(
-                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/DevilsHeavenMF",
+                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/itsNeerja",
            )
         ],
     ]
@@ -61,7 +61,7 @@ def telegram_markup(_):
         ],
         [
             InlineKeyboardButton(
-                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/DevilsHeavenMF",
+                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/itsNeerja",
             ),
         ],
     ]
@@ -82,7 +82,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/DevilsHeavenMF",
+                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/itsNeerja",
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
@@ -107,7 +107,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/DevilsHeavenMF",
+                text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/itsNeerja",
             ),
         ],
     ]
