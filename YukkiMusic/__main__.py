@@ -53,7 +53,7 @@ async def init():
     await Yukki.start()
     try:
         await Yukki.stream_call(
-            "https://telegra.ph/file/d47200819276c2ebbb35e.mp4"
+            "https://telegra.ph/file/d57173058acdf49bcde49.jpg"
         )
     except NoActiveGroupCall:
         LOGGER("YukkiMusic").error(
